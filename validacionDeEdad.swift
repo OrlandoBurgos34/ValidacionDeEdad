@@ -9,3 +9,5 @@ if age < 18{
 }else {
     print("la edad es correcta")
 }
+
+print("la edad ingresada es \(age)")
