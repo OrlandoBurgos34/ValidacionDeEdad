@@ -1,5 +1,6 @@
 
-let input = readLine(),let age = Int(input)
+// validando mayoria de edad
+let age = 34
 
 if age < 18{
     print("la edad es incorrecta")
